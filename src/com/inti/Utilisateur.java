@@ -5,6 +5,8 @@ public class Utilisateur {
 	private String nom;
 	private String prenom;
 	private int age;
+	private int nombre;
+	
 	public Utilisateur() {
 		super();
 		// TODO Auto-generated constructor stub
